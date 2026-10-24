@@ -1,0 +1,52 @@
+
+RETAIL SALES ANALYSIS PROJECT REPORT
+====================================
+
+1. PROJECT OVERVIEW
+This project analyzes retail sales data using Python
+to understand sales performance, profitability,
+regional trends, and customer segments.
+
+2. TOOLS USED
+- Python
+- Jupyter Notebook
+- Pandas and NumPy
+- Matplotlib and Seaborn
+
+3. DATASET INFORMATION
+Total records after cleaning: 9994
+Total columns: 25
+Total sales: $2,297,200.86
+Total profit: $286,397.02
+Total orders: 5009
+Total customers: 793
+
+4. ANALYSIS PERFORMED
+- Data cleaning and preprocessing
+- Sales by product category
+- Profit by product category
+- Monthly sales trends
+- Regional sales analysis
+- Top 10 products by sales
+- Profit by customer segment
+- Discount versus profit analysis
+
+5. KEY FINDINGS
+Best sales region:
+West
+
+Best-selling category by revenue:
+Technology
+
+Most profitable category:
+Technology
+
+Most profitable customer segment:
+Consumer
+
+6. CONCLUSION
+The analysis helps identify sales trends and profitable
+business areas. These insights can support better
+inventory planning, marketing, and business decisions.
+
+Note: Findings are based on the cleaned dataset.
